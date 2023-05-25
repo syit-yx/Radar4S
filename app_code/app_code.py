@@ -204,7 +204,7 @@ class Platform():
                                         self.data_v_s[Frame_i] = v_p0
                                     else:
                                         if Mode == '匀速':
-                                            self.data_v_s[Frame_i] = self.data_v_s[Frame_i - 1]
+                                            self.data_v_s[Frame_i] = np.array(eval(parament[stage])).T
                                             self.data_p_s[Frame_i] = self.data_p_s[Frame_i - 1] + self.data_v_s[
                                                 Frame_i - 1] * T
 
