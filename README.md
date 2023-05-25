@@ -28,7 +28,6 @@
 
 ```commandline
 git glone https://github.com/syit-yx/Radar4S.git
-cd Radar4S
 pip install -r requirements.txt
 python demo.py
 ```
