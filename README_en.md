@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="18%" align="center" src="https://pic1.imgdb.cn/item/646f432ff024cca173ac55fc.jpg" alt="logo">
+  <img width="18%" align="center" src="https://pic1.imgdb.cn/item/646f56faf024cca173cb4de0.jpg" alt="logo">
 </p>
   <h1 align="center">
   Radar Spot Situation Simulation System
