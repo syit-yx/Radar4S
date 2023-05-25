@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="18%" align="center" src="https://pic1.imgdb.cn/item/646f56faf024cca173cb4de0.jpg" alt="logo">
+  <img width="18%" align="center" src="https://pic1.imgdb.cn/item/646f81a6f024cca17313b6a0.png" alt="logo">
 </p>
   <h1 align="center">
   Radar Spot Situation Simulation System
@@ -18,7 +18,7 @@
 <a href="README.md">简体中文</a> | English
 </p>
 
-![Interface](https://pic1.imgdb.cn/item/646f5aecf024cca173d2a871.jpg)
+![Interface](https://pic1.imgdb.cn/item/646f81aef024cca17313c093.png)
 
 
 ## Introduce
